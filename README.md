@@ -41,6 +41,14 @@ O **DiretoAí** é uma aplicação simples desenvolvida em Python para cadastrar
 Quando a aplicação é iniciada, o usuário verá o menu principal com as opções:
 
 ```python
+
+██████╗░██╗██████╗░███████╗████████╗░█████╗░░█████╗░██╗
+██╔══██╗██║██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║
+██║░░██║██║██████╔╝█████╗░░░░░██║░░░██║░░██║███████║██║
+██║░░██║██║██╔══██╗██╔══╝░░░░░██║░░░██║░░██║██╔══██║██║
+██████╔╝██║██║░░██║███████╗░░░██║░░░╚█████╔╝██║░░██║██║
+╚═════╝░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝
+
 1. Cadastrar restaurante
 2. Listar restaurante
 3. Alternar estado do restaurante
